@@ -203,3 +203,10 @@ customer-churn-prediction/
 ├── ML Mini Project - Final.docx
 ├── README.md
 └── .gitignore
+## How to Run
+
+## 1. Clone the Repository
+
+```bash
+git clone https://github.com/gvr6/customer-churn-prediction.git
+cd customer-churn-prediction
