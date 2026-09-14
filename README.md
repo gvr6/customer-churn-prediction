@@ -205,6 +205,8 @@ customer-churn-prediction/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
+
 ### How to Run
 
 ### 1. Clone the Repository
@@ -212,3 +214,4 @@ customer-churn-prediction/
 ```bash
 git clone https://github.com/gvr6/customer-churn-prediction.git
 cd customer-churn-prediction
+```
