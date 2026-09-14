@@ -188,7 +188,8 @@ With additional time and data, the following improvements could be implemented:
 - Scikit-learn
 - Jupyter Notebook
 
-## Project Structure
+````markdown
+### Project Structure
 
 ```text
 customer-churn-prediction/
