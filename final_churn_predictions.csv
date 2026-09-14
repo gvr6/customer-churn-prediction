@@ -1,0 +1,59 @@
+account_id,Predicted_Churn
+CUST-0029,No Churn
+CUST-0040,No Churn
+CUST-0041,Churn
+CUST-0042,No Churn
+CUST-0059,Churn
+CUST-0076,No Churn
+CUST-0082,No Churn
+CUST-0083,No Churn
+CUST-0096,No Churn
+CUST-0103,No Churn
+CUST-0108,Churn
+CUST-0118,No Churn
+CUST-0119,No Churn
+CUST-0132,No Churn
+CUST-0134,No Churn
+CUST-0141,No Churn
+CUST-0143,No Churn
+CUST-0157,Churn
+CUST-0158,No Churn
+CUST-0164,No Churn
+CUST-0166,No Churn
+CUST-0172,No Churn
+CUST-0174,No Churn
+CUST-0178,No Churn
+CUST-0219,No Churn
+CUST-0230,No Churn
+CUST-0232,No Churn
+CUST-0243,No Churn
+CUST-0244,No Churn
+CUST-0248,No Churn
+CUST-0252,Churn
+CUST-0254,No Churn
+CUST-0261,No Churn
+CUST-0263,No Churn
+CUST-0271,No Churn
+CUST-0274,No Churn
+CUST-0277,No Churn
+CUST-0289,No Churn
+CUST-0297,No Churn
+CUST-0298,No Churn
+CUST-0305,Churn
+CUST-0308,No Churn
+CUST-0310,No Churn
+CUST-0312,No Churn
+CUST-0313,No Churn
+CUST-0319,No Churn
+CUST-0321,No Churn
+CUST-0331,No Churn
+CUST-0333,No Churn
+CUST-0334,No Churn
+CUST-0360,No Churn
+CUST-0362,No Churn
+CUST-0364,No Churn
+CUST-0366,No Churn
+CUST-0384,No Churn
+CUST-0387,No Churn
+CUST-0390,No Churn
+CUST-0391,No Churn
