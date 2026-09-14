@@ -202,6 +202,7 @@ customer-churn-prediction/
 ├── saas_churn_final.ipynb
 ├── ML Mini Project - Final.docx
 ├── README.md
+├── requirements.txt
 └── .gitignore
 ### How to Run
 
