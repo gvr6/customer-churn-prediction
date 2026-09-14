@@ -188,7 +188,6 @@ With additional time and data, the following improvements could be implemented:
 - Scikit-learn
 - Jupyter Notebook
 
-````markdown
 ### Project Structure
 
 ```text
